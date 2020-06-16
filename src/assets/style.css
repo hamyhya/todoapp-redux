@@ -1,0 +1,18 @@
+html, #root, body {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background-color: #813EBC;
+  height: 200px;
+}
+
+.footer {
+  background-color: #813EBC;
+}
+
+.btn-add {
+  background-color: #3e1661;
+}
+
